@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirebaseGame.iml" filepath="$PROJECT_DIR$/.idea/modules/FirebaseGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirebaseGame_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FirebaseGame_main.iml" group="FirebaseGame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirebaseGame_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FirebaseGame_test.iml" group="FirebaseGame" />
+    </modules>
+  </component>
+</project>
