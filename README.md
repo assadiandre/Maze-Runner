@@ -14,5 +14,5 @@ a period of two-weeks.
 
 Media: 
 
-![alt text](https://imgur.com/4SMSlzX)
+![alt text](https://i.imgur.com/4SMSlzX.gif)
 
